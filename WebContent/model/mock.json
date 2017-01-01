@@ -1,0 +1,43 @@
+{
+	"TaxiFleetCollection": [{
+		"TaxiBody": "S-0001",
+		"TaxiPlate": "TXY-985",
+		"TaxiType": "Sedan",
+		"Brand": "Nissan",
+		"Make": "Vios",
+		"ChangeOil": "2015-05-29",
+		"BrakeFluid": "2014-12-29"
+	}, {
+		"TaxiBody": "S-0002",
+		"TaxiPlate": "TVU-842",
+		"TaxiType": "Sedan",
+		"Brand": "Toyota",
+		"Make": "Camry",
+		"ChangeOil": "2015-06-03",
+		"BrakeFluid": "2014-12-25"
+	}, {
+		"TaxiBody": "S-0003",
+		"TaxiPlate": "TXY-899",
+		"TaxiType": "AUV",
+		"Brand": "Toyota",
+		"Make": "Innova",
+		"ChangeOil": "2015-07-15",
+		"BrakeFluid": "2015-07-15"
+	}, {
+		"TaxiBody": "S-0004",
+		"TaxiPlate": "AVA-1357",
+		"TaxiType": "Sedan",
+		"Brand": "Kia",
+		"Make": "Rio",
+		"ChangeOil": "2015-05-03",
+		"BrakeFluid": "2015-01-02"
+	}, {
+		"TaxiBody": "S-0005",
+		"TaxiPlate": "AVA-1992",
+		"TaxiType": "AUV",
+		"Brand": "Toyota",
+		"Make": "Innova",
+		"ChangeOil": "2015-08-01",
+		"BrakeFluid": "2015-05-29"
+	}]
+}
